@@ -116,6 +116,9 @@ ul {
     display: flex;
     justify-content: space-between;
     padding: 20px 100px;
+    height: 100%;
+    flex-wrap: wrap;
+    flex-grow: 1;
 }
 
 footer img{
